@@ -27,3 +27,5 @@ Built logic for predicting expenses on new unseen data using the saved model.
 Technologies Used:
 Python, Pandas, Scikit-learn, ,Different Regression algorithms, BestFit(XGBoost), Matplotlib, Seaborn, EDA, Data Preprocessing, Data Wrangling, Standard ScalarScaling, Feature selection, Feature Engineering, Data Wrangling, Joblib
 
+# Author
+Behara Pavan Kumar
