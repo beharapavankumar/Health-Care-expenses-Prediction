@@ -1,4 +1,4 @@
-# 🔷 Health Insurance Expenses Prediction
+# 🔷 Health Insurance Prediction
 Objective:
 Developed a machine learning model to predict individual medical expenses based on demographic and health-related features using regression techniques.
 
